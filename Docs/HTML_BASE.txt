@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+	
+</head>
+<body>
+
+</body>
+</html>
+
+
+<meta charset="utf-8"> = pour préciser à quoi corresponde les caractères spéciaux
+<!DOCTYPE html>	= Pour faire répertorier notre fichier comme étant HTML sur Internet, et le navigateur utilisera la dernière version de HTML
+<html lang="fr"> = Meilleur référencement sur Internet, traduction pour les autres langages
+
+
+<header></header> Pour mettre un en téte, à placer dans le début du <body></body>
+<footer></footer> Pour mettre un bas de page, à placer à la fin du <body></body>
+
+Pour faire des textes listés ( avec des points devant ) :
+-Mettre un sous-titre
+-Mettre la balise <ul>
+-Mettre dans cette balise <li> texte </li>
+-Boucler avec </ul>
+
+Pour faire des textes listés ( avec des chiffres devant ) :
+-Mettre un sous-titre
+-Mettre la balise <ol>
+-Mettre dans cette balise <li> texte </li>
+-Boucler avec </ol>
