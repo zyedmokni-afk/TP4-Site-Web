@@ -1,7 +1,11 @@
 .index {
-    background-color: lightblue;
+    background-color: blue;
 }
 
 .tp5{
     background-color: lightgreen;
+}
+
+.credit {
+		background: rgb(255 0 0);
 }
