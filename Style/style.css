@@ -28,6 +28,21 @@ th,
     color: white;
 }
 
+#colonne2 {
+    background-color: #e0bc2d;
+    color: white;
+}
+
+#colonne3 {
+    background-color: #3246a8;
+    color: white;
+}
+
+#colonne4 {
+    background-color: #3246a8;
+    color: white;
+}
+
 #calendrier-scolaire tr:nth-child(even) {
     background-color: #f2f2f2;
 }
