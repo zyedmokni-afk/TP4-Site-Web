@@ -46,12 +46,8 @@ th,td {
     background-color: #f2f2f2;
 }
 
-#colonne-samedi {
-	background-color: #2f7d18
-	color: black;
-}
 
-#colonne-dimanche {
+#colonne-weekend {
 	background-color: #2f7d18
 	color: black;
 }
