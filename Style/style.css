@@ -23,12 +23,14 @@
     text-align: center;
 }
 
-#calendrier-scolaire th {
+#colonne1 {
     background-color: #4CAF50;
     color: white;
 }
 
-
+#calendrier-scolaire tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
 
 #repertoire-langage table {
 	border-collapse: collapse;
