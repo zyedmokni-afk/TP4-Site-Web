@@ -11,7 +11,9 @@
 		background: rgb(255 0 0);
 }
 
-#calendrier-scolaire {
+#calendrier-scolaire table {
+	
+{
     border-collapse: collapse;
     width: 80%;
     margin: 20px auto;
@@ -31,4 +33,6 @@
 
 #calendrier-scolaire tr:nth-child(even) {
     background-color: #f2f2f2;
+}
+
 }
