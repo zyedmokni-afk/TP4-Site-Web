@@ -46,6 +46,11 @@ th,td {
     background-color: #f2f2f2;
 }
 
+#colonne-jour {
+	background-color: #81f013
+	color: black;
+}
+
 
 #colonne-weekend {
 	background-color: #2f7d18
