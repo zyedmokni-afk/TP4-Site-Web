@@ -24,22 +24,22 @@ th,td {
 
 #colonne1 {
     background-color: #6c97aa;
-    color: white;
+    color: black;
 }
 
 #colonne2 {
     background-color: #cdc0c1;
-    color: white;
+    color: black;
 }
 
 #colonne3 {
     background-color: #dacb9b;
-    color: white;
+    color: black;
 }
 
 #colonne4 {
     background-color: #e5d572;
-    color: white;
+    color: black;
 }
 
 #exception {
@@ -48,10 +48,10 @@ th,td {
 
 #colonne-samedi {
 	background-color: #2f7d18
-	color: white;
+	color: black;
 }
 
 #colonne-dimanche {
 	background-color: #2f7d18
-	color: white;
+	color: black;
 }
