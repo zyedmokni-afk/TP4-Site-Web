@@ -10,3 +10,25 @@
 .credit {
 		background: rgb(255 0 0);
 }
+
+#calendrier-scolaire {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+}
+
+#calendrier-scolaire th, 
+#calendrier-scolaire td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+#calendrier-scolaire th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#calendrier-scolaire tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
