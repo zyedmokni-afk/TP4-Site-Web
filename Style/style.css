@@ -20,13 +20,6 @@ table {
     text-align: center;
 }
 
-th, 
-#calendrier-scolaire td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: center;
-}
-
 #colonne1 {
     background-color: #6c97aa;
     color: white;
