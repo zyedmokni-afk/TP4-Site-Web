@@ -4,11 +4,11 @@ body {
 }
 
 .general {
-	margin: 50px 40px 50px 50px; 
+    margin: 50px 40px 50px 50px;
 }
 
 .credit {
-		background: rgb(255 0 0);
+    background: rgb(255 0 0);
 }
 
 table {
@@ -16,7 +16,9 @@ table {
     width: 80%;
     margin: 20px auto;
 }
-th,td {
+
+th,
+td {
     border: 1px solid black;
     padding: 8px;
     text-align: center;
@@ -47,12 +49,28 @@ th,td {
 }
 
 #colonne-jour {
-	background-color: #81f013
-	color: black;
+    background-color: #81f013;
+    color: black;
 }
 
 
 #colonne-weekend {
-	background-color: #2f7d18
-	color: black;
+    background-color: #2f7d18;
+    color: black;
+}
+
+
+#img_tp6 {
+    border: solid 1px black;
+}
+
+#titre_index {
+    text-decoration: underline red; 
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    font-size:50px;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
 }
